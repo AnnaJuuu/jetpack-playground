@@ -10,9 +10,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.composetest.ModifiersTest.ModifierMainScreen
+import com.example.composetest.Modifiers.ModifierMainScreen
 
-object ModifiersTest {
+object Modifiers {
     @Composable
     private fun Greeting(name: String) {
         Column(
